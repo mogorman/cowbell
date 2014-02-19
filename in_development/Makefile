@@ -1,5 +1,5 @@
-PCBNAME=pig
-REV=11.0
+PCBNAME=cowbell
+REV=0.0
 
 all: get_submodule
 
