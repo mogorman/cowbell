@@ -995,7 +995,7 @@ refdes=LED1
 T 65300 66300 5 10 0 0 0 0 1
 symversion=0.1
 T 64500 65500 5 10 0 1 0 0 1
-footprint=0805
+footprint=JUMPER2
 }
 C 69900 66300 1 0 0 led-1.sym
 {
@@ -1006,7 +1006,7 @@ refdes=LED2
 T 70700 67100 5 10 0 0 0 0 1
 symversion=0.1
 T 69900 66300 5 10 0 1 0 0 1
-footprint=0805
+footprint=JUMPER2
 }
 C 63100 65600 1 0 0 input-2.sym
 {
