@@ -1,5 +1,5 @@
 PCBNAME=cowbell
-REV=0.1
+REV=1.1
 STACK=+
 SOLDERMASK=red
 SILKSCREEN=white
