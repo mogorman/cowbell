@@ -6,11 +6,11 @@ FileVersion[20070407]
 PCB["" 800000 800000]
 
 Grid[2500.0 0 0 1]
-Cursor[257500 77500 0.000000]
+Cursor[480000 780000 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[600 600 600 600 1500 600]
-Flags("showdrc,nameonpcb,uniquename,clearnew,snappin,showmask")
+Flags("showdrc,nameonpcb,uniquename,clearnew,snappin")
 Groups("1,c:2,s:3:4:5:6:7:8")
 Styles["Signal,1000,3600,2000,1000:Power,2500,6000,3500,1000:Fat,4000,6000,3500,1000:Skinny,600,2402,1181,600"]
 
@@ -3509,7 +3509,15 @@ Layer(8 "signal3")
 )
 Layer(9 "silk")
 (
-	Text[494500 733000 2 100 "todo" "clearline,onsolder"]
+	Text[492500 157500 2 100 "Copyright 2014" "clearline,onsolder"]
+	Text[495000 165000 2 100 "Matt O'Gorman" "clearline,onsolder"]
+	Text[490000 125000 2 100 "Cowbell" "clearline,onsolder"]
+	Text[465000 125000 2 100 "XXX" "clearline,onsolder"]
+	Text[497500 172500 2 100 "TIm Heath" "clearline,onsolder"]
+	Text[505500 366600 2 100 "Only you hackvana" "clearline,onsolder"]
+	Text[502500 375000 2 100 "Only you" "clearline,onsolder"]
+	Text[572500 182500 2 100 "This board is licensed" "clearline,onsolder"]
+	Text[547500 190000 2 100 "GPLv3" "clearline,onsolder"]
 )
 Layer(10 "silk")
 (
