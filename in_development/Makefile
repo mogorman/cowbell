@@ -1,6 +1,6 @@
 PCBNAME=cowbell
-REV=0.0
-STACK=-
+REV=0.1
+STACK=+
 SOLDERMASK=red
 SILKSCREEN=white
 #CUSTOMPCB=/home/mog/nonapt/pcb/src/pcb
