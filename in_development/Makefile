@@ -1,5 +1,6 @@
 PCBNAME=cowbell
-REV=1.1
+AUTHOR="Matthew O'Gorman <mog@rldn.net>  , Tim Heath <crashcartpro@gmail.com>"
+REV=1.0
 STACK=+
 SOLDERMASK=red
 SILKSCREEN=white
