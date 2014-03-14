@@ -1,7 +1,7 @@
 PCBNAME=cowbell
 AUTHOR="Matthew O'Gorman <mog@rldn.net>  , Tim Heath <crashcartpro@gmail.com>"
 REV=1.0
-STACK=-
+STACK=+
 SOLDERMASK=red
 SILKSCREEN=white
 #CUSTOMPCB=/home/mog/nonapt/pcb/src/pcb
