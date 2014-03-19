@@ -2772,9 +2772,9 @@ Cowbell
 T 77200 31700 14 7 1 0 0 0 1
 http://dev.meatstand.com/meatstand/cowbell.git
 T 81100 31700 14 10 1 0 0 0 1
-XXX
+@version@
 T 82700 31700 14 10 1 0 0 0 1
-GIT_REV
+@git@
 T 81200 31400 14 10 1 0 0 0 1
 Matthew O'Gorman <mog@rldn.net>
 T 81500 32000 14 10 1 0 0 0 1
